@@ -6,12 +6,12 @@ function garis($jum) {
 }
 echo '####################################';
 echo "\r\n";
-echo '\r# Copyright : @systkha - Abdul Khafid#';
+echo '\r# Copyright : @dhendygp';
 echo "\r\n";
 echo '####################################';
 echo "\r\n";
 echo '####################################';
-echo " \n\t[x] PILIH DATA KELAS [x]\n\t 1. SI NON REGULER"; // ini cuma tampilan
+echo " \n\t[x] PILIH DATA KELAS [x]\n\t 1. XI IPS 1"; // ini cuma tampilan
 echo "\n [?] Masukkan Nomor Kelas : "; // ini tampilan juga
 $pilih = trim(fgets(STDIN)); // ini juga dihapus pilihan kelas juga gpp
 echo '####################################';
